@@ -1,9 +1,11 @@
-🛒 Blinkit Sales Analysis Dashboard | Power BI
+**Blinkit Sales Analysis Dashboard**|**POWER BI**
+
 **Project Overview**
 
 This project presents an interactive Power BI dashboard built using Blinkit retail sales data. The dashboard transforms raw sales data into meaningful business insights, enabling users to analyze sales performance, customer preferences, and outlet performance through interactive visualizations.
 
 **Objective**
+
 Analyze overall sales performance
 Identify top-performing product categories
 Evaluate outlet performance
@@ -11,14 +13,17 @@ Understand customer purchasing behavior
 Support business decisions using interactive dashboards
 
 **Tools & Technologies**
+
 Microsoft Power BI
 Power Query
 DAX (Data Analysis Expressions)
 Microsoft Excel
 
 **Dashboard Features**
-Dashboard 1 – Sales Overview
+**Dashboard 1 – Sales Overview**
+
 **KPI Cards**
+
 Total Sales
 Total Items
 Average Rating
@@ -39,12 +44,14 @@ Outlet Location
 Item Fat Content
 
 **Dashboard 2 – Sales Driver Analysis**
+
 Tree Map
 Matrix Heatmap
 Waterfall Chart
 Sales Driver Analysis
 Product Performance Insights
-📈 Key Business Insights
+
+**Key Business Insights**
 Fruits & Vegetables generated the highest sales.
 Supermarket Type 1 contributed the largest share of revenue.
 Medium and Small outlets accounted for the majority of sales.
@@ -71,5 +78,5 @@ Business Analytics
 
 **Author**
 
-K. Aiswarya
-Linkedin-
+**K. Aiswarya**
+**Mail-**kotaaiswarya15@gmail.com
